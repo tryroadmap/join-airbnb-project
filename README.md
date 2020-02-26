@@ -1,2 +1,10 @@
-# AirBnB
-Public Repo: AirBnB 2019 private challenge 
+# Airbnb Project
+
+### setup
+```
+git clone https://github.com/lotusxai/airbnb-project.git
+cd airbnb-project
+
+
+
+```
